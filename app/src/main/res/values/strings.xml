@@ -1,8 +1,10 @@
 <resources>
 
-    <string name="username">username</string>
-    <string name="password">password</string>
+    <string name="username">yourname@aot.edu.in</string>
+    <string name="password">* * * * * * * * * * * * * * * * * * * </string>
     <string name="sign_in">Sign in</string>
     <string name="login">Login</string>
     <string name="app_name">College</string>
+    <string name="userid">userid</string>
+    <string name="textview">Forget Password?</string>
 </resources>
